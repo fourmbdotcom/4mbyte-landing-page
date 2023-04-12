@@ -1,21 +1,20 @@
 {
   "Header": {
     "title": "We are a 4MB",
-    "paragraph": "A startup service based on the idea to connect and educate minority communities with like-minded individuals, who have similar experiences. We also source existing services that speak to this need by providing a way for these small business owners to join together and share knowledge. This will create an impact on their ability to serve minority communities better than they would if they were alone"
+    "paragraph": "We are a web and mobile app development service company, which has the capability to create apps and websites that are fast, secure and easy to use. We have a team of experienced developers who can work on any project with the latest technologies such as React, Angular, Vue.js and Next.js. Our team also provides design services such as logo design, webpage design and e-commerce solutions."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "We provide Web and Mobile Application Development services to all types of enterprises, including e-commerce sites, web portals and desktop interfaces. We build customized websites for businesses by combining the latest technologies with innovative design ideas. Our experienced team of designers, programmers and developers are ready to take your company's needs into consideration.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Experience and Expertise",
+      "Custom Solutions",
+      "Quality Assurancer",
+      "Communication & Transparency"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Cost-Effective Solutions",
+      "Timely Delivery",
+      "Support and Maintenance"
     ]
   },
   "Gallery": [
@@ -68,7 +67,7 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
+      "name": "Custom Application Development",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
@@ -162,23 +161,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Custom Application Development",
+      "text": "specialize in developing custom web and mobile applications from scratch based on client requirements."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Agile Development",
+      "text": "We follow agile development methodologies to ensure that the application is developed in an iterative and collaborative manner."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Maintenance & Support",
+      "text": "After the application is launched, We  offer maintenance and support services to ensure that the application is running smoothly and is up-to-date"
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "API Development & Integration",
+      "text": "We offer API development and integration services to enable the application to communicate with other systems and applications"
     }
   ]
 }
